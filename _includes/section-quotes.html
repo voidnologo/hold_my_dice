@@ -1,0 +1,22 @@
+{% if site.show_quotes %}
+  <h1 class="title"><span>{{site.quotess_title}}</span></h1>
+  <div class="projects-wrapper">
+    {% for quote in site.data.quotes %}
+      <div class="project neumorphism-card" data-aos="zoom-in-down">
+        <p class="project-desc">{{quote.quote}}</p>
+        {% if quote.tags %}
+          <div class="name-link-wrapper">
+            <h3>{{quote.name}}</h3>
+          </div>
+        {% endif %}
+        {% if quote.tags %}
+          <div class="tag-wrapper">
+            {% for tag in quote.tags %}
+              <span class="tag neumorphism-card">{{tag.tag}}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
