@@ -7,7 +7,7 @@ title: Hold My Dice
 description: Quotes taken wildly out of context
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/quoter"
+baseurl: "/hold_my_dice"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
