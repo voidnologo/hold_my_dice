@@ -10,14 +10,636 @@
 #     - tag: Vampires
 #     - tag: she said
 
-- name: Jessica
-  quote: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  tags:
-    - tag: Words
+- date: Thu Sep 08 01:09:14 +0000 2022
+  name: Caleb
+  quote: "It\u2019s not cannibalism if it only USED to be a person."
+- date: Thu Apr 21 03:14:31 +0000 2022
+  name: Caleb
+  quote: The road to hell is paved with wizard biscuits.
+- date: Fri Apr 08 16:58:23 +0000 2022
+  name: Caleb
+  quote: It was like bell bottoms, except it was bottoms all the way up.
+- date: Thu Mar 03 02:14:57 +0000 2022
+  name: Caleb
+  quote: I exert my authority, grant unto me an egg!
+- date: Thu Feb 24 04:25:59 +0000 2022
+  name: Caleb
+  quote: Poof! Squirrel time.
+- date: Thu Feb 24 04:24:32 +0000 2022
+  name: Caleb
+  quote: They should be able to resist becoming a squirrel.
+- date: Thu Feb 17 05:28:50 +0000 2022
+  name: Caleb
+  quote: I was a SQUIRREL again???
+- date: Thu Feb 17 01:51:11 +0000 2022
+  name: Caleb
+  quote: "If Derrick makes his roll, you\u2019re a squirrel."
+- date: Tue Sep 28 15:33:07 +0000 2021
+  name: Caleb
+  quote: "He\u2019s a sweet cat, and he\u2019s not dumb\u2026 but I think a cat door\
+    \ might be above his pay grade."
+- date: Tue Sep 28 14:56:50 +0000 2021
+  name: Caleb
+  quote: "We\u2019ll cut out like half an hour early so you can cook your burritos\
+    \ or whatever it is you do."
+- date: Wed May 26 14:44:16 +0000 2021
+  name: Caleb
+  quote: "Put that on your tombstone. \u201CI wander around my house vigorously.\u201D"
+- date: Fri May 07 20:08:06 +0000 2021
+  name: Caleb
+  quote: "Who\u2019s in a pickle now? Not me! I\u2019m guacamole!"
+- date: Thu Feb 04 02:56:50 +0000 2021
+  name: Caleb
+  quote: "I\u2019ve been hoarding waffles for a week. Trust me, I have waffles."
+- date: Thu Jan 21 21:11:20 +0000 2021
+  name: Caleb
+  quote: Stop bouncing around, have a banana.
+- date: Mon Dec 28 15:29:10 +0000 2020
+  name: Caleb
+  quote: Show just a *little* too much bosom at a dumb party with all the soldiers,
+    and boom, everyone is making off with your reputation.
+- date: Thu Dec 17 02:10:55 +0000 2020
+  name: Caleb
+  quote: One does not joke about waffles. Put that in your twitter diaries.
+- date: Fri Oct 16 14:16:44 +0000 2020
+  name: Caleb
+  quote: "It\u2019s like if a cupcake dropped the f-bomb."
+- date: Tue Oct 06 18:45:53 +0000 2020
+  name: Caleb
+  quote: "I\u2019ve never seen a shark like doggy-paddling around the pool."
+- date: Tue Oct 06 18:42:29 +0000 2020
+  name: Caleb
+  quote: "Do I look like a chiseled 6\u2019 2\u201D Australian man to you? No."
+- date: Mon Oct 05 20:58:47 +0000 2020
+  name: Caleb
+  quote: I appeared in 10 searches this week. I am ultimately popular.
+- date: Mon Sep 28 14:24:27 +0000 2020
+  name: Caleb
+  quote: "What\u2019s the genetic composition of my left earlobe? I don\u2019t need\
+    \ to roll for that."
+- date: Mon Sep 21 20:48:54 +0000 2020
+  name: Caleb
+  quote: "Essentially it\u2019s just a giant Rumba, but with death blades."
+- date: Mon Sep 21 19:17:36 +0000 2020
+  name: Caleb
+  quote: 'So what are you cosplaying as?
 
-- name: Evan
-  quote: "I'm a warlock!"
-  tags:
-    - tag: DnD
+    Immorality.'
+- date: Mon Sep 21 19:16:56 +0000 2020
+  name: Caleb
+  quote: "We\u2019re gonna create a paradox feedback loop to defeat the dragon."
+- date: Mon Sep 21 18:43:00 +0000 2020
+  name: Caleb
+  quote: "You have no idea what they\u2019re thinking, they\u2019re a girl, it\u2019\
+    s a complete black box what\u2019s going on up there."
+- date: Mon Sep 14 21:30:41 +0000 2020
+  name: Caleb
+  quote: If you just took off your swimsuit and duct taped your phone to your body,
+    you would be more covered.
+- date: Sat Sep 12 01:59:41 +0000 2020
+  name: Caleb
+  quote: "I think if I played my hand, I\u2019d be more beautiful than you."
+- date: Sat Sep 12 01:54:53 +0000 2020
+  name: Caleb
+  quote: "That\u2019s RIGHT I planned a ball!"
+- date: Sat Sep 12 01:53:50 +0000 2020
+  name: Caleb
+  quote: "No! It\u2019s my reputation again!"
+- date: Sat Sep 12 01:51:55 +0000 2020
+  name: Caleb
+  quote: "We\u2019ve already destroyed my reputation so many times in the past, we\
+    \ don\u2019t need any more of that."
+- date: Sat Sep 12 01:38:48 +0000 2020
+  name: Caleb
+  quote: You were into wit a minute ago. ... Well you were! All about that literacy
+    and stuff.
+- date: Sat Sep 12 01:37:51 +0000 2020
+  name: Caleb
+  quote: "This is more beauty than you\u2019re gonna see in your life if you don\u2019\
+    t take this card."
+- date: Sat Sep 12 01:29:06 +0000 2020
+  name: Caleb
+  quote: "I have so much friendliness, I\u2019m the friendliest person here."
+- date: Sat Sep 12 01:24:50 +0000 2020
+  name: Caleb
+  quote: "That\u2019s my luck with the ladies. ... Wait, I AM the lady."
+- date: Sat Sep 12 01:23:50 +0000 2020
+  name: Caleb
+  quote: He smiles at you! You smell him back.
+- date: Sat Sep 12 01:21:29 +0000 2020
+  name: Caleb
+  quote: "Don\u2019t destroy my reputation, I\u2019ll be irritated."
+- date: Sun Sep 06 21:45:24 +0000 2020
+  name: Caleb
+  quote: Which pyramid is the Suez Canal closest to? Chicago! What??
+- date: Thu Aug 13 18:46:57 +0000 2020
+  name: Caleb
+  quote: "Cuz women are adorable. ... unless they\u2019re crazy."
+- date: Thu Jul 30 02:04:32 +0000 2020
+  name: Caleb
+  quote: "It\u2019ll go right through that like... some phrase that\u2019s amazingly\
+    \ cool."
+- date: Thu Jul 30 01:54:53 +0000 2020
+  name: Caleb
+  quote: "The air is stagnant and dead, you\u2019re sleeping on a springy brick, and\
+    \ you have three shredded washcloths behind your head."
+- date: Thu Jul 30 01:19:26 +0000 2020
+  name: Caleb
+  quote: "As much as I hate kids, they\u2019re little bundles of joy."
+- date: Thu Jul 23 03:56:08 +0000 2020
+  name: Caleb
+  quote: "To me, comfortable means \u201CI know my foot feels great\u201D not \u201C\
+    I don\u2019t know I have a foot\u201D."
+- date: Thu Jul 23 03:46:57 +0000 2020
+  name: Caleb
+  quote: He was hard core on catnip, but you give him ear wax...
+- date: Thu Jul 23 03:38:10 +0000 2020
+  name: Caleb
+  quote: "If a squirrel has potential, a diminutive one isn\u2019t gonna be that much\
+    \ better."
+- date: Thu Jul 23 03:31:34 +0000 2020
+  name: Caleb
+  quote: "That\u2019s the cool thing about a heroin addiction - you can\u2019t cold\
+    \ turkey it."
+- date: Thu Jul 23 03:23:37 +0000 2020
+  name: Caleb
+  quote: "They\u2019re fun cultists to hang out with. ... They wave their magic wands\
+    \ and try to give you peace and love and happiness."
+- date: Thu Jul 23 03:16:27 +0000 2020
+  name: Caleb
+  quote: Either the solid chunk of animal goes straight up into your engine block,
+    or it goes straight up into your windshield.
+- date: Thu Jul 23 03:12:58 +0000 2020
+  name: Caleb
+  quote: Woo woo! Chugga chugga man train!
+- date: Thu Jul 23 03:07:26 +0000 2020
+  name: Caleb
+  quote: That is not a massage you want. You do not want a kidney massage.
+- date: Tue Jul 21 19:01:12 +0000 2020
+  name: Caleb
+  quote: "This is the worst picture I\u2019ve ever seen in my life. I, of course,\
+    \ shall share it with you."
+- date: Wed May 06 15:03:31 +0000 2020
+  name: Caleb
+  quote: I thought my cat might want to go for a bike ride when I was 6 or 7. So I
+    put him in my jacket and went for a bike ride. I still have scars across my chest.
+- date: Mon Mar 09 02:34:00 +0000 2020
+  name: Caleb
+  quote: You farted in the water, get your face out of it!
+- date: Mon Mar 09 02:29:41 +0000 2020
+  name: Caleb
+  quote: An iron pot is not gonna suck a spell scroll from a 10 foot hole in the ground.
+- date: Mon Mar 09 02:18:37 +0000 2020
+  name: Caleb
+  quote: I jiggle my leg around a lot. You keep telling me to stop.
+- date: Sun Mar 08 03:41:02 +0000 2020
+  name: Caleb
+  quote: "If you think you\u2019re locked in the bathroom, you\u2019re probably not,\
+    \ you just need to put more effort into getting out."
+- date: Fri Mar 06 23:05:53 +0000 2020
+  name: Caleb
+  quote: "You mix eggs and cabbage together and \u201Cpotency\u201D begins to be an\
+    \ understatement."
+- date: Thu Mar 05 23:48:20 +0000 2020
+  name: Caleb
+  quote: "He\u2019s just like \u201CI don\u2019t care what I like, I like you.\u201D"
+- date: Thu Mar 05 23:41:15 +0000 2020
+  name: Caleb
+  quote: "What\u2019s going on? Leprosy? Oh! Read a letter!"
+- date: Thu Mar 05 23:29:03 +0000 2020
+  name: Caleb
+  quote: Ooooh, warming up! Friendliness.
+- date: Thu Mar 05 23:26:06 +0000 2020
+  name: Caleb
+  quote: "\u201CAnybody got any reputation?\u201D\nYeah, it\u2019s right there, burned\
+    \ into a pile of ashes. Like my dreams."
+- date: Thu Mar 05 23:15:28 +0000 2020
+  name: Caleb
+  quote: My bosom brought me more reputation.
+- date: Thu Mar 05 23:14:59 +0000 2020
+  name: Caleb
+  quote: "My bosom\u2019s gonna bring all the partners to the yard."
+- date: Thu Mar 05 23:14:30 +0000 2020
+  name: Caleb
+  quote: PARTY! Boom boom boom gonna lose more reputation!
+- date: Thu Mar 05 23:13:48 +0000 2020
+  name: Caleb
+  quote: "Na na na na na! I don\u2019t have any reputation!"
+- date: Thu Mar 05 02:02:53 +0000 2020
+  name: Caleb
+  quote: You bought a shirt for toplessness??
+- date: Tue Mar 03 03:25:16 +0000 2020
+  name: Caleb
+  quote: "It\u2019s sweet, creamy... got that burn."
+- date: Mon Mar 02 17:47:12 +0000 2020
+  name: Caleb
+  quote: It smells like a thousand dead dung beetles.
+- date: Fri Feb 21 20:16:00 +0000 2020
+  name: Caleb
+  quote: "You can still hear people from your trunk even if they\u2019re in a sleeping\
+    \ bag."
+- date: Fri Feb 21 20:11:55 +0000 2020
+  name: Caleb
+  quote: "I\u2019m about to punch you in the mouth, but hold on, I gotta put this\
+    \ on YouTube."
+- date: Mon Feb 10 19:31:43 +0000 2020
+  name: Caleb
+  quote: "You know, I\u2019ve never talked to my aunt since then. She threatened to\
+    \ drive up to [state] to shoot me, and then I haven\u2019t talked to her since...\
+    \ I actually didn\u2019t mind her."
+- date: Mon Feb 10 19:27:32 +0000 2020
+  name: Caleb
+  quote: 'Ducks: the adorable cousins of geese.'
+- date: Mon Feb 10 15:57:46 +0000 2020
+  name: Caleb
+  quote: "It\u2019s a low pressure situation! What am I gonna do, make fun of you?\
+    \ I mean, yeah, but who cares?!"
+- date: Fri Feb 07 17:50:45 +0000 2020
+  name: Caleb
+  quote: Cut me off in traffic? Boom! Lightning bolt up your tail pipe.
+- date: Thu Jan 30 19:21:49 +0000 2020
+  name: Caleb
+  quote: "Who needs pants? Unless you\u2019re gonna be in public. Then you need pants.\
+    \ ... or some sort of lower body coverage."
+- date: Wed Jan 29 03:27:18 +0000 2020
+  name: Caleb
+  quote: I support you in this, yet I still wish for your failure.
+- date: Fri Jan 24 16:57:45 +0000 2020
+  name: Caleb
+  quote: Doing an adorable somersault does not absolve you of ripping up the carpet.
+- date: Thu Jan 23 15:42:09 +0000 2020
+  name: Caleb
+  quote: "If you roll in the trash, you\u2019re a trash panda."
+- date: Thu Jan 23 15:23:29 +0000 2020
+  name: Caleb
+  quote: "You\u2019re just gonna faceplant with them on top of you, which is not the\
+    \ best way to start a fight."
+- date: Thu Jan 23 02:01:22 +0000 2020
+  name: Caleb
+  quote: No, Sugar Buns! Move Snickers!
+- date: Thu Jan 23 01:58:56 +0000 2020
+  name: Caleb
+  quote: Princess looks like a dog.
+- date: Thu Jan 23 01:14:48 +0000 2020
+  name: Caleb
+  quote: "Sucks is a positive trait if you\u2019re a vacuum."
+- date: Thu Jan 23 01:09:05 +0000 2020
+  name: Caleb
+  quote: "If the spoons are gone and you do not have one, you\u2019re a loser."
+- date: Wed Jan 22 14:22:58 +0000 2020
+  name: Caleb
+  quote: If we can leave with less than 10 pinecones and 7 rocks, I will be so excited.
+- date: Wed Jan 22 13:55:37 +0000 2020
+  name: Caleb
+  quote: You done goofed, Mother-In-Law.
+- date: Wed Jan 22 01:09:40 +0000 2020
+  name: Caleb
+  quote: "You\u2019re not gonna get nearly enough suction with an iron pot."
+- date: Wed Jan 22 00:45:48 +0000 2020
+  name: Caleb
+  quote: "You\u2019re not gonna be able to bow them very cleanly."
+- date: Tue Jan 21 23:48:17 +0000 2020
+  name: Caleb
+  quote: People die. You treat them with respect, sometimes you bring them back as
+    zombies.
+- date: Tue Jan 21 16:05:07 +0000 2020
+  name: Caleb
+  quote: "Just faceplant into your knees, that\u2019s all there is to it."
+- date: Tue Jan 21 04:38:12 +0000 2020
+  name: Caleb
+  quote: "I have a friend I\u2019d like to introduce you to: his name is Physics."
+- date: Tue Jan 21 04:38:05 +0000 2020
+  name: Caleb
+  quote: "That\u2019s right this song don\u2019t make no sense, you said it right\
+    \ in your lyrics."
+- date: Mon Jan 20 22:17:13 +0000 2020
+  name: Caleb
+  quote: If you wanna get shot, I can show you some great places.
+- date: Mon Jan 20 22:06:38 +0000 2020
+  name: Caleb
+  quote: You gotta drop the bass at some point.
+- date: Mon Jan 20 02:17:13 +0000 2020
+  name: Caleb
+  quote: 'You have a choice: you can spin or break your wrist.'
+- date: Mon Jan 20 02:08:11 +0000 2020
+  name: Caleb
+  quote: "That\u2019s what knocks people unconscious - the brain slosh."
+- date: Sat Jan 18 03:02:35 +0000 2020
+  name: Caleb
+  quote: Eat too much cake. Well, here goes my reputation.
+- date: Sat Jan 18 02:56:24 +0000 2020
+  name: Caleb
+  quote: I can help you with your reputation... or some hotness!
+- date: Sat Jan 18 02:45:00 +0000 2020
+  name: Caleb
+  quote: "I\u2019m just gonna superglue my mouth shut and stick a straw up my nose."
+- date: Sat Jan 18 02:44:39 +0000 2020
+  name: Caleb
+  quote: "There goes my beauty! I\u2019ve been hoarding that!"
+- date: Sat Jan 18 02:41:58 +0000 2020
+  name: Caleb
+  quote: How did I steal a bonnet and end up with a teapot??
+- date: Mon Jan 06 21:33:48 +0000 2020
+  name: Caleb
+  quote: "People have bacon, I\u2019m just saying that."
+- date: Fri Jan 03 21:31:04 +0000 2020
+  name: Caleb
+  quote: Your collarbone is not a muscle. Unless your body is like terribly deformed.
+- date: Thu Jan 02 22:15:34 +0000 2020
+  name: Caleb
+  quote: Let me snap my glasses in half so I can have a monocle.
+- date: Thu Jan 02 21:09:11 +0000 2020
+  name: Caleb
+  quote: "He\u2019s been delivering mail there since the Crustacean Period."
+- date: Thu Jan 02 20:19:40 +0000 2020
+  name: Caleb
+  quote: "I don\u2019t need a JLo remix of an Australian outback song."
+- date: Mon Dec 30 19:10:36 +0000 2019
+  name: Caleb
+  quote: "I know you\u2019re trying to take this nefariously, but it\u2019s not."
+- date: Thu Dec 26 20:46:52 +0000 2019
+  name: Caleb
+  quote: "Just because the marker changes color doesn\u2019t mean it\u2019s spelled\
+    \ different."
+- date: Thu Dec 26 16:42:28 +0000 2019
+  name: Caleb
+  quote: You livestream my mouth.
+- date: Thu Dec 26 16:34:20 +0000 2019
+  name: Caleb
+  quote: This is a nice, good tasting, normal-looking cake.
+- date: Thu Dec 26 16:32:44 +0000 2019
+  name: Caleb
+  quote: "That\u2019s part of making good cookies, you gotta foam at the mouth for\
+    \ a little bit."
+- date: Thu Dec 26 16:25:12 +0000 2019
+  name: Caleb
+  quote: Inspirational speech here. You fill out the details.
+- date: Wed Dec 25 02:36:50 +0000 2019
+  name: Caleb
+  quote: "So moral of the story: If you get stabbed, call your significant other.\
+    \ They\u2019d appreciate it."
+- date: Wed Dec 25 02:30:18 +0000 2019
+  name: Caleb
+  quote: "And then I found out what it\u2019s like to go into shock."
+- date: Wed Dec 25 01:41:13 +0000 2019
+  name: Caleb
+  quote: "Don\u2019t blow bubbles in the fart water."
+- date: Fri Dec 20 03:17:46 +0000 2019
+  name: Caleb
+  quote: Crackers are just small, stale pancakes.
+- date: Wed Dec 18 18:25:17 +0000 2019
+  name: Caleb
+  quote: "I don\u2019t get nudist colonies, I\u2019ll just say that."
+- date: Wed Dec 18 17:50:27 +0000 2019
+  name: Caleb
+  quote: "Cats don\u2019t have sweet taste buds. They can\u2019t taste sweet. ...\
+    \ Yeah, cats are messed up."
+- date: Wed Dec 18 17:48:18 +0000 2019
+  name: Caleb
+  quote: "I\u2019ll eat a bird, but all the allergic parts are gone at that point."
+- date: Mon Dec 16 17:16:05 +0000 2019
+  name: Caleb
+  quote: I wonder if they can do finger grafts... they can do skin grafts...
+- date: Mon Dec 16 17:14:37 +0000 2019
+  name: Caleb
+  quote: Can you imagine how fast you could type if you had six fingers on each hand?
+- date: Fri Dec 13 21:56:02 +0000 2019
+  name: Caleb
+  quote: All I gotta do is teach my 5 year old to punch you in the nuts and I win.
+- date: Fri Dec 13 20:49:28 +0000 2019
+  name: Caleb
+  quote: "\u201CWhat\u2019s one thing you want [for Christmas]?\u201D\n\u201CHappiness\
+    \ with my family.\u201D\n\u201CShut your pie hole, dear.\u201D"
+- date: Fri Dec 13 17:46:26 +0000 2019
+  name: Caleb
+  quote: "\u201CI\u2019m gonna disappear your face\u201D sounds like a mean threat."
+- date: Wed Dec 11 05:07:09 +0000 2019
+  name: Caleb
+  quote: I just punched the castle down. He was not happy.
+- date: Wed Dec 11 05:01:20 +0000 2019
+  name: Caleb
+  quote: You can last for almost 2 hours with that many people in a portable hole
+    before you suffocate and die.
+- date: Wed Dec 11 04:02:55 +0000 2019
+  name: Caleb
+  quote: "We are not hy on potenuse right now (that\u2019s not original)."
+- date: Wed Dec 11 03:47:14 +0000 2019
+  name: Caleb
+  quote: "It doesn\u2019t look like it\u2019s been disturbed for many a long time."
+- date: Wed Dec 11 03:33:09 +0000 2019
+  name: Caleb
+  quote: "You know when your wife is pregnant and like... poofing up? Like retaining\
+    \ water, that\u2019s something women go through."
+- date: Wed Dec 11 03:26:58 +0000 2019
+  name: Caleb
+  quote: "It\u2019s 10:30, should we go sack a temple?"
+- date: Wed Dec 11 03:18:22 +0000 2019
+  name: Caleb
+  quote: "It\u2019s almost Christmas, what better time for a Christ symbol or gang\
+    \ sign?"
+- date: Wed Dec 11 03:16:25 +0000 2019
+  name: Caleb
+  quote: We tried to figure out how to do the Jesus gang sign.
+- date: Wed Dec 11 03:11:44 +0000 2019
+  name: Caleb
+  quote: "As we\u2019ve just demonstrated, you can clearly take off and put on a shirt\
+    \ holding a katana."
+- date: Tue Dec 10 20:29:39 +0000 2019
+  name: Caleb
+  quote: "\u201CAre you ready for the date? Got your dice?\u201D\n\u201CWhoa there\
+    \ Casanova!\u201D"
+- date: Tue Nov 26 22:04:37 +0000 2019
+  name: Caleb
+  quote: Alright, press play. *hangs up*
+- date: Tue Nov 26 21:11:13 +0000 2019
+  name: Caleb
+  quote: no armor + no hit points = you die quickly
+- date: Tue Nov 26 20:11:34 +0000 2019
+  name: Caleb
+  quote: Did you know that having six fingers is a dominant trait? Which is pretty
+    cool.
+- date: Tue Nov 26 20:11:14 +0000 2019
+  name: Caleb
+  quote: My dad was a molecular biologist. Inbreeding came up all the time.
+- date: Thu Nov 21 03:38:49 +0000 2019
+  name: Caleb
+  quote: "I have the \u201CI have no weapon\u201D glitch. Followed by the \u201CI\
+    \ forgot which key I mapped to shoot\u201D glitch."
+- date: Thu Nov 07 21:43:47 +0000 2019
+  name: Caleb
+  quote: Equality in pants!
+- date: Thu Nov 07 21:22:23 +0000 2019
+  name: Caleb
+  quote: You can have two pairs of pants. Then just rotate them!
+- date: Thu Nov 07 21:03:40 +0000 2019
+  name: Caleb
+  quote: "It\u2019s amazing how a three-pound kitten - how thumpy they can be."
+- date: Sat Sep 21 14:19:13 +0000 2019
+  name: Caleb
+  quote: "Electric cars have the range of an addled 3yr old on a tricycle, so if that\
+    \ is as far as you\u2019ll ever need to go, it might still be a terrible choice."
+- date: Wed Sep 11 03:52:11 +0000 2019
+  name: Caleb
+  quote: YOU are by far the worst enemy you have in this building.
+- date: Fri Sep 06 17:51:04 +0000 2019
+  name: Caleb
+  quote: "You can\u2019t play role playing games by yourself. I mean, you could...\
+    \ But it would just be daydreaming with dice."
+- date: Wed Sep 04 02:47:30 +0000 2019
+  name: Caleb
+  quote: "Straight trippin\u2019, tootles."
+- date: Fri Aug 30 03:35:14 +0000 2019
+  name: Caleb
+  quote: "You\u2019re a very bland dwarf."
+- date: Fri Aug 30 03:34:19 +0000 2019
+  name: Caleb
+  quote: Put pants on for the rest of the week!
+- date: Fri Aug 30 01:24:14 +0000 2019
+  name: Caleb
+  quote: "The rain pummels you. Soak it. *laughs so hard he can\u2019t breathe for\
+    \ 10 minutes*"
+- date: Fri Aug 30 01:22:02 +0000 2019
+  name: Caleb
+  quote: I know ibuprofen is not a mood-altering drug...
+- date: Thu Jul 18 15:32:29 +0000 2019
+  name: Caleb
+  quote: There is no charts for throwing a microwave at someone!
+- date: Sat Jun 29 02:44:43 +0000 2019
+  name: Caleb
+  quote: Somebody please turn me into a chicken.
+- date: Tue May 28 20:01:53 +0000 2019
+  name: Caleb
+  quote: That literally is a wood elf punching orcs in a bikini.
+- date: Tue May 21 01:18:59 +0000 2019
+  name: Caleb
+  quote: I only name my kids after the best fire mages.
+- date: Fri May 17 01:49:52 +0000 2019
+  name: Caleb
+  quote: Buy the raven, buy the raven, for fifty pence and.... stuff.
+- date: Fri May 17 01:18:58 +0000 2019
+  name: Caleb
+  quote: "Let\u2019s head into the doom mist."
+- date: Tue May 14 20:49:22 +0000 2019
+  name: Caleb
+  quote: "There\u2019s a lake. It\u2019s got some sand. Technically it\u2019s a beach."
+- date: Tue May 14 20:46:30 +0000 2019
+  name: Caleb
+  quote: "I can only assume you\u2019re rolling your mic around in a pit of gophers."
+- date: Tue May 14 19:23:21 +0000 2019
+  name: Caleb
+  quote: "I\u2019ve never done anything interesting with a pig."
+- date: Fri May 10 17:10:10 +0000 2019
+  name: Caleb
+  quote: So if I get bitten by one of these new bananas...
+- date: Fri May 10 17:06:10 +0000 2019
+  name: Caleb
+  quote: "Every time I come up with a good porno, someone\u2019s already made it.\
+    \ (Do not tweet that.)"
+- date: Fri May 10 04:40:05 +0000 2019
+  name: Caleb
+  quote: I am kinda sorry I sacked your whole cult in one revolt.
+- date: Fri May 10 04:21:31 +0000 2019
+  name: Caleb
+  quote: Hey everyone, [friend] needs some dead lizards.
+- date: Tue May 07 01:07:20 +0000 2019
+  name: Caleb
+  quote: You blow him into a crusty pile of smithereens.
+- date: Mon May 06 20:35:37 +0000 2019
+  name: Caleb
+  quote: "USB only carries 5 volts. That\u2019s not even enough for a good tingle."
+- date: Mon May 06 01:43:35 +0000 2019
+  name: Caleb
+  quote: You roll and then I tell you how to have fun at this stupid party.
+- date: Fri May 03 20:29:53 +0000 2019
+  name: Caleb
+  quote: Aaaaaaaaaaaaaaaaaaaaaaaaargh. Put that on your Twitter feed.
+- date: Fri May 03 18:02:44 +0000 2019
+  name: Caleb
+  quote: "For now it\u2019s the \u201CI won\u2019t sleep in your three stick shelter\u201D\
+    \ song."
+- date: Thu May 02 18:34:31 +0000 2019
+  name: Caleb
+  quote: "I\u2019m gonna sit on my little cloud, playing my little harp, and it\u2019\
+    s going to be full of cats."
+- date: Mon Apr 29 20:03:31 +0000 2019
+  name: Caleb
+  quote: No, hobo harvesting is the only option.
+- date: Fri Apr 26 20:18:11 +0000 2019
+  name: Caleb
+  quote: To be the whaling hub of the world, it helps to be connected to water.
+- date: Fri Apr 26 02:37:09 +0000 2019
+  name: Caleb
+  quote: We are mushrooms. The most well-known and liked of the fungi....
+- date: Fri Apr 26 01:08:13 +0000 2019
+  name: Caleb
+  quote: "You\u2019ll get over it. Unless you\u2019re dead, then you don\u2019t get\
+    \ over it."
+- date: Wed Apr 24 17:35:48 +0000 2019
+  name: Caleb
+  quote: 'See the dog.
 
-- quote: "Hey, itsa mee, a quote."
+    Insert a word that rhymes, like frog.
+
+    Hippity-hop, hippity-hop.
+
+    Now I want a burger... from B-Bop.'
+- date: Wed Apr 24 01:52:48 +0000 2019
+  name: Caleb
+  quote: Go out there and be the chick! But in an appropriate way that could be phrased.
+- date: Wed Apr 24 01:05:07 +0000 2019
+  name: Caleb
+  quote: "Weren\u2019t we like... touching the walls? Appropriately, of course."
+- date: Tue Apr 23 17:58:00 +0000 2019
+  name: Caleb
+  quote: Sounds like a rabid cat choking on a sandwich set to some heavy guitars and
+    a drum.
+- date: Mon Apr 22 18:44:24 +0000 2019
+  name: Caleb
+  quote: Wow, look at that elbow! So shapely.
+- date: Mon Apr 22 13:55:00 +0000 2019
+  name: Caleb
+  quote: Be cowed by our majestic prowess!
+- date: Wed Apr 17 16:00:10 +0000 2019
+  name: Caleb
+  quote: There is no hope, only kick butting.
+- date: Wed Apr 17 13:24:48 +0000 2019
+  name: Caleb
+  quote: You leave me, you leave the world.
+- date: Tue Apr 16 14:43:04 +0000 2019
+  name: Caleb
+  quote: When I think of like Viking warrior gods.... rugby players.
+- date: Tue Apr 16 14:27:55 +0000 2019
+  name: Caleb
+  quote: "No, I have not spent 10 minutes cramming bread into my face hole. I\u2019\
+    m eating it delicately."
+- date: Mon Apr 15 16:48:17 +0000 2019
+  name: Caleb
+  quote: "It\u2019s like a bloated football. Like a football retaining water."
+- date: Mon Apr 15 13:46:56 +0000 2019
+  name: Caleb
+  quote: "Have you ever heard a catfish sing? It\u2019s pretty messed up. Like a demented\
+    \ frog belching."
+- date: Mon Apr 15 13:16:28 +0000 2019
+  name: Caleb
+  quote: "That\u2019s like the one piece of padding they have. .... And their manliness.\
+    \ That\u2019s their other piece of protection."
+- date: Mon Apr 15 13:15:56 +0000 2019
+  name: Caleb
+  quote: They make lumberjacks look like pancake flippers.
+- date: Mon Apr 15 13:15:36 +0000 2019
+  name: Caleb
+  quote: Go home, grab a bottle of wine, and watch some rugby.
+- date: Sun Apr 14 21:29:27 +0000 2019
+  name: Caleb
+  quote: You live up to the hype, so you have that going for you.
+- date: Sat Apr 13 19:45:19 +0000 2019
+  name: Caleb
+  quote: If George Washington, Thomas Jefferson, and a bald eagle got together and
+    had a lovechild, it would be this guy.
+- date: Fri Apr 12 19:33:07 +0000 2019
+  name: Caleb
+  quote: "It doesn\u2019t do any good to write the tale of how you sank and drowned\
+    \ because the pirates shot ye."
+- date: Fri Apr 12 19:28:55 +0000 2019
+  name: Caleb
+  quote: "It\u2019s not incriminating if you don\u2019t put their names on it."
