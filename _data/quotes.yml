@@ -1,6 +1,6 @@
 # > name: Who done it
 # > quote: The quote
-# > tags: List of technologies you used in your projects
+# > tags: List of tags (Eat the Reich, Black Sword Hack, etc.)
 #
 # Example of a project
 # - name: Jessica
@@ -10,9 +10,144 @@
 #     - tag: Vampires
 #     - tag: she said
 
+- date: Thu Nov 16 04:51:00 +0000 2023
+  name: Jessica
+  quote: "Speaking of tickling your goat... I have *big* plans for your werewolf."
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 16 03:24:00 +0000 2023
+  name: Derrick
+  quote: "No one expects the Vampire Inquisition!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 16 03:24:00 +0000 2023
+  name: Derrick
+  quote: "Ya wanna know what's better than cannon fodder? *Reusable* cannon fodder."
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 16 03:13:00 +0000 2023
+  name: Lightning
+  quote: "He's a speed bump Nazi!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 16 02:21:00 +0000 2023
+  name: Jessica & Caleb
+  quote: "J: Oh, your incest roommate. C: No! Not my incest roommate. That’s my grandma."
+  tags:
+    - tag: Random Chats
+- date: Tue Nov 14 05:33:00 +0000 2023
+  name: Evan & Lighting
+  quote: "E: I have a fire elemental named Flare Grylls. L: That is *tragic*."
+  tags:
+    - tag: Random Chats
+- date: Tue Nov 14 04:59:00 +0000 2023
+  name: Evan
+  quote: "Elon Musk is the Anish Kapoor of the Tech World."
+  tags:
+    - tag: Random Chats
+- date: Thu Nov 02 04:22:00 +0000 2023
+  name: Lightning
+  quote: "This is my left Hans, this is my right Hans!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 02 04:02:00 +0000 2023
+  name: Evan
+  quote: "On Wednesdays, we wear arms!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 02 03:49:00 +0000 2023
+  name: Lightning
+  quote: "Who needs ketchup when you've got Nazi blood?"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 02 03:05:00 +0000 2023
+  name: Caleb
+  quote: "The head bone connects to the rust arm bone. The rust arm bone\
+          \ connects to the toe bone. The toe bone connects to\
+          \ Hitler's face, WHoooaaa! That's nine damage!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 02 03:01:00 +0000 2023
+  name: Lightning
+  quote: "Umm, can, can I steal the Rust Witch's arm?"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 02 02:56:00 +0000 2023
+  name: Evan
+  quote: "Eat a baguette of <redacted>."
+  tags:
+    - tag: Eat the Reich
+- date: Thu Nov 02 02:40:00 +0000 2023
+  name: Evan
+  quote: "Your Hot Wheels moving too slow? Have you tried ZoMbIeS??"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Oct 26 04:47:00 +0000 2023
+  name: Caleb
+  quote: "Yeah, a wet, sloppy, wheezing kazoo. Put that in your mental imagery."
+  tags:
+    - tag: Eat the Reich
+- date: Thu Oct 26 03:01:00 +0000 2023
+  name: Caleb
+  quote: "Lightning's gonna tell us about her mom's chaos story and\
+          \ then we're gonna go kill Hitler."
+  tags:
+    - tag: Eat the Reich
+- date: Thu Oct 26 02:56:00 +0000 2023
+  name: Jessica
+  quote: "Can we not call Evan the Wee Wee boy, please??"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Oct 26 02:55:00 +0000 2023
+  name: Caleb
+  quote: "Oui oui boy, go!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Oct 26 02:24:00 +0000 2023
+  name: Caleb
+  quote: "I need some heavy metal music so I can get my little horn banging."
+  tags:
+    - tag: Random Chats
+- date: Thu Oct 19 03:05:00 +0000 2023
+  name: Jessica
+  quote: "My parents should have named me Ivana. Ivana Suckyourblood!"
+  tags:
+    - tag: Eat the Reich
+- date: Thu Oct 05 04:41:00 +0000 2023
+  name: Caleb
+  quote: "I have needs, too! I needed the beef."
+  tags:
+    - tag: Coriolis
+- date: Thu Oct 05 04:22:00 +0000 2023
+  name: Caleb
+  quote: "Ah man, my kids took Batman! I can't really blame them, it is theirs…\
+          \ No wait, here it is! Ha ha ha!"
+  tags:
+    - tag: Random Chats
+- date: Thu Sep 28 05:07:00 +0000 2023
+  name: Derrick
+  quote: "I'm The Butcher, not a chef."
+  tags:
+    - tag: Black Sword Hack
+- date: Thu Sep 28 04:02:00 +0000 2023
+  name: Caleb
+  quote: "Alright, who wants to do the demented cow yell?"
+  tags:
+    - tag: Black Sword Hack
+- date: Wed Sep 28 02:47:00 +0000 2023
+  name: Caleb
+  quote: "It's 'I have a dwarf and I'm not afraid to use it'\
+    \ all over again."
+  tags:
+    - tag: Black Sword Hack
+- date: Thu Sep 28 01:53:00 +0000 2023
+  name: Caleb
+  quote: "I would tattoo a black belt certificate on a hobo and give it to him."
+  tags:
+    - tag: Black Sword Hack
 - date: Thu Sep 08 01:09:14 +0000 2022
   name: Caleb
-  quote: "It\u2019s not cannibalism if it only USED to be a person."
+  quote: "It's not cannibalism if it only USED to be a person."
 - date: Thu Apr 21 03:14:31 +0000 2022
   name: Caleb
   quote: The road to hell is paved with wizard biscuits.
@@ -605,41 +740,63 @@
 - date: Wed Apr 17 13:24:48 +0000 2019
   name: Caleb
   quote: You leave me, you leave the world.
+  tags:
+  - tag: Gina Is Terrifying And We Love Her
 - date: Tue Apr 16 14:43:04 +0000 2019
   name: Caleb
   quote: When I think of like Viking warrior gods.... rugby players.
+  tags:
+  - tag: Work Chats
 - date: Tue Apr 16 14:27:55 +0000 2019
   name: Caleb
   quote: "No, I have not spent 10 minutes cramming bread into my face hole. I\u2019\
     m eating it delicately."
+  tags:
+  - tag: Work Chats
 - date: Mon Apr 15 16:48:17 +0000 2019
   name: Caleb
   quote: "It\u2019s like a bloated football. Like a football retaining water."
+  tags:
+  - tag: Work Chats
 - date: Mon Apr 15 13:46:56 +0000 2019
   name: Caleb
   quote: "Have you ever heard a catfish sing? It\u2019s pretty messed up. Like a demented\
     \ frog belching."
+  tags:
+  - tag: Work Chats
 - date: Mon Apr 15 13:16:28 +0000 2019
   name: Caleb
   quote: "That\u2019s like the one piece of padding they have. .... And their manliness.\
     \ That\u2019s their other piece of protection."
+  tags:
+  - tag: Work Chats
 - date: Mon Apr 15 13:15:56 +0000 2019
   name: Caleb
   quote: They make lumberjacks look like pancake flippers.
+  tags:
+  - tag: Work Chats
 - date: Mon Apr 15 13:15:36 +0000 2019
   name: Caleb
   quote: Go home, grab a bottle of wine, and watch some rugby.
+  tags:
+  - tag: Work Chats
 - date: Sun Apr 14 21:29:27 +0000 2019
   name: Caleb
   quote: You live up to the hype, so you have that going for you.
+  tags:
+  - tag: Work Chats
 - date: Sat Apr 13 19:45:19 +0000 2019
   name: Caleb
   quote: If George Washington, Thomas Jefferson, and a bald eagle got together and
     had a lovechild, it would be this guy.
+  tags:
+  - tag: Work Chats
 - date: Fri Apr 12 19:33:07 +0000 2019
   name: Caleb
   quote: "It doesn\u2019t do any good to write the tale of how you sank and drowned\
     \ because the pirates shot ye."
+  tags:
+    - tag: Mouse Guard
 - date: Fri Apr 12 19:28:55 +0000 2019
   name: Caleb
   quote: "It\u2019s not incriminating if you don\u2019t put their names on it."
