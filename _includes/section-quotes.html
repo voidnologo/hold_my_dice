@@ -4,11 +4,11 @@
     {% for quote in site.data.quotes %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <p class="project-desc">{{quote.quote}}</p>
-        {% if quote.name %}
-          <div class="name-link-wrapper">
-            <h3>{{quote.name}}</h3>
-          </div>
-        {% endif %}
+        <!-- {% if quote.tags %} -->
+        <!--   <div class="name-link-wrapper"> -->
+        <!--     <h3>{{quote.name}}</h3> -->
+        <!--   </div> -->
+        <!-- {% endif %} -->
         {% if quote.tags %}
           <div class="tag-wrapper">
             {% for tag in quote.tags %}
