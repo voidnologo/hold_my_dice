@@ -2,17 +2,12 @@
   <h1 class="title"><span>{{site.quotess_title}}</span></h1>
   <div class="projects-wrapper">
     {% for quote in site.data.quotes %}
-      <div class="project neumorphism-card" data-aos="zoom-in-down">
+      <div class="project quote-card" data-aos="fade-up" data-aos-duration="600">
         <p class="project-desc">{{quote.quote}}</p>
-        <!-- {% if quote.tags %} -->
-        <!--   <div class="name-link-wrapper"> -->
-        <!--     <h3>{{quote.xx_name_xx}}</h3> -->
-        <!--   </div> -->
-        <!-- {% endif %} -->
         {% if quote.tags %}
           <div class="tag-wrapper">
             {% for tag in quote.tags %}
-              <span class="tag neumorphism-card">{{tag.tag}}</span>
+              <span class="tag">{{tag.tag}}</span>
             {% endfor %}
           </div>
         {% endif %}
